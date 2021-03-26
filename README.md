@@ -83,7 +83,7 @@
 │   │   ├── permissions.py     # RBAC权限控制
 │   │   ├── routers.py         # 视图routers
 │   │   ├── swagger_schema.py  # swagger
-│   │   ├── views.py           # 基类视图
+│   │   ├── sqlscript.py           # 基类视图
 │   │   └── websocket.py       # WebSocket用户验证
 │   ├── routing.py             # WebSocket路由
 │   ├── urls.py                # 项目根路由
